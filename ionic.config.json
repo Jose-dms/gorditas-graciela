@@ -1,0 +1,7 @@
+{
+  "name": "gorditas-graciela",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
